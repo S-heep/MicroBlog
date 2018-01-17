@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         tableView.delegate = self
         tableView.dataSource = self
         print("此处创建tableView")
+        print("在此处测试tableView")
     }
 }
 
