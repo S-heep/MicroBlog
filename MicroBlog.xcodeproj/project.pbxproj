@@ -12,6 +12,7 @@
 		F110C49B200DD6F700F233FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F110C499200DD6F700F233FD /* Main.storyboard */; };
 		F110C49D200DD6F700F233FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F110C49C200DD6F700F233FD /* Assets.xcassets */; };
 		F110C4A0200DD6F700F233FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F110C49E200DD6F700F233FD /* LaunchScreen.storyboard */; };
+		F1F6B851201B1281006E824B /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = F1F6B850201B1281006E824B /* .swiftlint.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F110C49C200DD6F700F233FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F110C49F200DD6F700F233FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F110C4A1200DD6F700F233FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1F6B850201B1281006E824B /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = .swiftlint.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F110C49C200DD6F700F233FD /* Assets.xcassets */,
 				F110C49E200DD6F700F233FD /* LaunchScreen.storyboard */,
 				F110C4A1200DD6F700F233FD /* Info.plist */,
+				F1F6B850201B1281006E824B /* .swiftlint.yml */,
 			);
 			path = MicroBlog;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1F6B851201B1281006E824B /* .swiftlint.yml in Resources */,
 				F110C4A0200DD6F700F233FD /* LaunchScreen.storyboard in Resources */,
 				F110C49D200DD6F700F233FD /* Assets.xcassets in Resources */,
 				F110C49B200DD6F700F233FD /* Main.storyboard in Resources */,

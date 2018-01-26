@@ -4,7 +4,6 @@
 //
 //  Created by 王娜 on 2018/1/16.
 //  Copyright © 2018年 王娜. All rights reserved.
-//
 
 import UIKit
 
@@ -21,8 +20,8 @@ class ViewController: UIViewController {
         tableView = UITableView.init(frame: view.frame, style: .grouped)
         tableView.delegate = self
         tableView.dataSource = self
-        print("此处创建tableView")
-        print("在此处测试tableView")
+        print ("此处创建tableView")
+        print ("在此处测试tableView")
     }
 }
 
